@@ -1,4 +1,4 @@
-FlutterWeb_Image_Classification
+
 
 
 The folder named SERVER consist of API and MODEL 
